@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: GOVERNMENT DEBT %GDP (level)
+Mean: 45.54
+Median: 45.31
+Sample std: 9.55
+Variance: 91.19
+Lowest: 30.71
+Highest: 67.25
+--------------------------------------------------

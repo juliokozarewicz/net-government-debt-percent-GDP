@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: GOVERNMENT DEBT %GDP
+ADF Test: -4.614936
+P-value: 0.000973
+Lags: 5
+Observations: 231
+Critical values:
+  1%: -3.998505
+  5%: -3.429669
+  10%: -3.138318
+--------------------------------------------------
